@@ -1,0 +1,28 @@
+/**
+ * Change Log
+ */
+  /**
+ * @version 1.8-11.11.22
+ */
+- side id is checked for numeric value but OAW uses strings (fixed)
+
+/**
+ * @version 1.8-11.11.21
+ */
+- security and code clean up
+- added gpl header 
+- version number change from [yy].[mm].[dd] to [elgg-version]-[yy].[mm].[dd] 
+
+ 
+/**
+ * @version 11.11.12
+ */
+- Initial release
+
+
+
+
+
+
+
+
